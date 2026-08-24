@@ -1,5 +1,7 @@
 # Project ideas for the research project
 
+## General about the research project
+
 
 
 
