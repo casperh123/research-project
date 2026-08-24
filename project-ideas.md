@@ -62,6 +62,12 @@ A recent MSc thesis [2] at ITU integrated FDP support in DuckDB and tested in on
 
 This project would be suitable as a standalone project, a research project with an MSc thesis followup, or BSc thesis. If you are interested in data management systems, storage devices, benchmarking, and performance analysis in general, this project would be a great fit for you. Furthermore, there is a possibility of collaborating with Samsung Research Denmark.
 
+### Algorithms for data-aware cycling network expansion
+
+[Link](https://dasya.itu.dk/for-students/proposals/current/cycling/)
+
+As a response to increased traffic congestion and the need to reduce carbon emissions, cities consider ways to modernise, build and extend transit systems. Transit network design solutions can benefit from analysing the large amount of crowd-sourced location data available, which provides valuable insights into population mobility needs. Designing efficient metro lines, bicycle paths, or bus routes brings a number of conflicting constraints into play: from the user’s perspective, an efficient transit network is easily accessible and time-efficient, while from the provider’s side there is, amongst others, a limitation on the budget. In this project the student will implement a method which, taking into account the above constraints, expands a transit network based on GPS location data from people travelling inside a city.
+
 ## Marco Capone
 
 ### Extracting and Verifying Communication Protocols from Distributed (Rust) Code
