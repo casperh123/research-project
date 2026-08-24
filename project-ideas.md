@@ -49,3 +49,26 @@ http://www.albaorbital.com/pocketqube-standard
 https://rexusbexus.net/
 https://lacuna.space/
 https://swarm.space/
+
+### Flexible Data Placement on SSDs for Database Systems
+
+[Link](https://dasya.itu.dk/for-students/proposals/current/pito-fdpsim-duckdb/) 
+
+Traditionally solid-state drives (SSDs) does not give the users the ability to control the data placement on the SSD. This often leads to suboptimal performance and lowers SSD lifetime, since SSDs internally don’t allow in-place updates. The updated disk pages are written elsewhere and the old versions have to be garbage collected. This poses problems if data with different lifetimes and update frequencies often gets written in the same region.
+
+To cope with this issue, there has been several attempts by storage vendors, one of the most recent being flexible data placement (FDP) SSDs [1]. This new class of SSDs allow hints from programs to the SSD to dictate which data should be written where, thereby allowing separation of data from different applications or with different lifetimes.
+
+A recent MSc thesis [2] at ITU integrated FDP support in DuckDB and tested in on real FDP SSDs. A follow-up thesis evaluated the performance of it further. However, the availability of real SSDs with FDP support is limited. This project aims at analyzing the FDP performance on DuckDB using a recently developed emulator [3] to overcome the availability challenge.
+
+This project would be suitable as a standalone project, a research project with an MSc thesis followup, or BSc thesis. If you are interested in data management systems, storage devices, benchmarking, and performance analysis in general, this project would be a great fit for you. Furthermore, there is a possibility of collaborating with Samsung Research Denmark.
+
+## Marco Capone
+
+### Extracting and Verifying Communication Protocols from Distributed (Rust) Code
+
+[Link](https://carbonem.github.io/student_projects.html) 
+
+Develop a tool that analyses distributed programs (preferably in Rust but other programming languages are possible) and automatically extracts all communication operations, abstracting them into a protocol representation or state machine. The tool should then translate this representation into the input language of a model checker such as SPIN (Promela) or TLA+ (TLC), enabling verification of properties like functional correctness, deadlock freedom, or other protocol-level guarantees. Students will experiment with real Rust implementations and demonstrate the approach on a few concrete examples. As an optional extension, the tool may handle dropped or out-of-order messages to explore robustness under realistic distributed conditions.
+Keywords: messaging, protocols, distributed systems, model checking
+Level: BSc/MSc
+
