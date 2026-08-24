@@ -30,3 +30,22 @@ what happens when the AI fails and we need to take over? explore how estreme aut
 This project would investigate the storage access patterns of LLM agents using open-source state-of-the-art inference frameworks such as vLLM and SGLang and workload traces such as the ones released by Mooncake, Alibaba, Swiss AI Initiative, etc. Depending on the size and duration of the project, it can also propose or implement optimizations for the storage access.
 
 This project would be suitable as a standalone project, a research project with an MSc thesis followup, or BSc thesis. If you are interested in LLM serving efficiency, storage devices, benchmarking, and performance analysis, this project would be a great fit for you. Furthermore, there is a possibility of collaborating with Samsung Research Denmark.
+
+### Cubesat LoRa module
+
+[Link](https://dasya.itu.dk/for-students/proposals/current/jucp-cubesat-lora/)
+
+LoRa is a long range, low bandwith networking protocol widely used in Internet of Things projects, sensor networks, low power, low cost and embedded systems. LoRa’s encoding schema allows for extremely long distance communications with small power usage and small simple antennas. This combination of features has made it attractive to small satellite operators flying cubesats and LoRa is now routinely used to connect small ground based nodes to satellites, typically for remote sensor network deployments, and for satellite telemetry, e.g. by the Starlink constellation and in the TinyGS project
+
+In this project we would like to develop a LoRa module for inclusion in a future small satellite mission, and investigate and experiment with different on satellite LoRa approaches that we have in the lab. The LoRa approach is currently used in the PyCubed opensource educational satellite system and fortcoming mini-Py-cubed pocketqube form factor satellites.
+
+ITU is a partner of the Danish Student Cubesat Program, DISCOSAT. ITU launched their first satellite DISCO-1 into Low Earth Orbit in April 2023 and will launch a DISCO-2 in 2024. In this project you will evaluate the LoRa technology for inclusion in a future DISCOSAT satellite, and may be able to test the module in a high altitude balloon
+
+https://discosat.dk
+https://tinygs.com
+https://roboticexplorationlab.org/projects/pycubed.html
+https://digitalcommons.usu.edu/smallsat/2020/all2020/239/
+http://www.albaorbital.com/pocketqube-standard
+https://rexusbexus.net/
+https://lacuna.space/
+https://swarm.space/
