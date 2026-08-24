@@ -2,8 +2,13 @@
 
 ## General about the research project
 
+### Deadlines
 
+- **11. September:** Lav eller bliv medlem af en gruppe. 
+- **25. September:** Aflever preliminary problem statement.
+- **15. December:** Aflever opgave.
 
+### Research groups
 
 ## Square
 
