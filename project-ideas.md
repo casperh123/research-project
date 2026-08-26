@@ -23,10 +23,10 @@ Contact: Raúl Pardo (raup@itu.dk)
 ## Brainlab
 
 ### Programming with AI
-investigate the cognitive impact of agentic programming, prompt egineering and other AI innovations in software development.
+Investigate the cognitive impact of agentic programming, prompt egineering and other AI innovations in software development.
 
 ### Recoving from AI disasters
-what happens when the AI fails and we need to take over? explore how estreme automation affects human skills and how to design AI based systems that support a healty and safe human-AI interaction.
+What happens when the AI fails and we need to take over? explore how estreme automation affects human skills and how to design AI based systems that support a healty and safe human-AI interaction.
 
 ## DASYA
 
